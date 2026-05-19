@@ -25,15 +25,15 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 
 // ── Colors ────────────────────────────────────────────────────────────────────
 private val BackgroundDark = Color(0xFF0A1628)  // Deep Navy
-private val CardDark       = Color(0xFFE8F1FF)  // Slightly lighter navy
+private val CardDark       = Color(0xFFE8F9EB)  // Slightly lighter navy
 private val BorderSubtle   = Color(0xFF1E3A5F)
-private val AccentBlue     = Color(0xFFF0F6FF)
-private val AccentPurple   = Color(0xFF7C3AED)
-private val AccentGreen    = Color(0xFF059669)
-private val AccentAmber    = Color(0xFFD97706)
-private val AccentRed      = Color(0xFFDC2626)
-private val TextPrimary    = Color(0xFF0F172A)
-private val TextSecondary  = Color(0xFF64748B)
+private val AccentBlue     = Color(0xFFF2FFF4)
+private val AccentPurple   = Color(0xFF3D9900)
+private val AccentGreen    = Color(0xFF1CB0F6)
+private val AccentAmber    = Color(0xFFFF9600)
+private val AccentRed      = Color(0xFFFF4B4B)
+private val TextPrimary    = Color(0xFF1A1A1A)
+private val TextSecondary  = Color(0xFF6B7280)
 
 @Composable
 fun GapScreen(
